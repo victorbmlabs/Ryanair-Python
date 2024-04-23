@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+.vscode
+proxies.txt
+.github
+test.py
